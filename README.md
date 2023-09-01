@@ -8,8 +8,11 @@ Lenovo Ideapad s340 Ryzentosh with opencore.
 | Audio chipset | ALC257 |
 | WiFi | Qualcom QCA9377 |
 | Ethernet | ASIX AX88179 USB |
-
-Working versions: MacOS Monterey (12), MacOS Ventura (13)
+# Versions
+- Working versions (tested): MacOS Monterey (12), MacOS Ventura (13)
+- Current OS Version: 13.5.1
+- OpenCore version: 0.9.4
+#
 <details>
 <summary>What's working:</summary>
     <li>GPU Acceleration with NootedRed</li>
@@ -25,3 +28,13 @@ Working versions: MacOS Monterey (12), MacOS Ventura (13)
   <li>Card reader (I don't need it now so I will fix it later)</li>
   <li>WiFi and Bluetooth (I'm gonna change this wifi card for some intel card)</li>
 </details>
+
+# Credits
+- [Acidanthera](https://github.com/acidanthera) for OpenCore package and many of needed kexts
+- [AMD OSX](https://github.com/AMD-OSX) for CPU patches
+- [Apple](https://apple.com/) for MacOS
+- [Trulyspinach](https://github.com/trulyspinach?tab=repositories) for AMD SMC plugin for VirtualSMC
+- [ChefKissInc](https://github.com/ChefKissInc/NootedRed) for NootedRed
+- [RehabMan](https://github.com/RehabMan/OS-X-Null-Ethernet) for NullEthernet kext
+- [CorpNewt](https://github.com/corpnewt) for SSDTTime, GenSMBIOS, gibmacOS, MountEFI and ProperTree
+- [RattletraPM](https://github.com/RattletraPM/GUX-RyzenXHCIFix) for GenericUSBXHCI.kext which fixed booting, without it the laptop would boot once a time
