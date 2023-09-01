@@ -28,6 +28,9 @@ Lenovo Ideapad s340 Ryzentosh with opencore.
   <li>Card reader (I don't need it now so I will fix it later)</li>
   <li>WiFi and Bluetooth (I'm gonna change this wifi card for some intel card)</li>
 </details>
+You need to use one of three SMBIOS listed in NootedRed guide, I use Macbook Pro 16,3 SMBIOS, but feel free to experiment
+
+## Guys this EFI won't work for all of you so take it as a help for your setup
 
 # Credits
 - [Acidanthera](https://github.com/acidanthera) for OpenCore package and many of needed kexts
