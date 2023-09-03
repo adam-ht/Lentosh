@@ -3,7 +3,7 @@ Lenovo Ideapad s340 Ryzentosh with opencore.
 | Component | Model |
 |-----------|-------|
 | CPU | AMD Ryzen 5 3500U |
-| GPU | AMD Radeon Vega 8 |
+| GPU | AMD Radeon Vega 8 2GB allocated |
 | RAM | 20GB(4GB soldered + 16GB sodimm) |
 | Audio chipset | ALC257 |
 | WiFi | Qualcom QCA9377 |
