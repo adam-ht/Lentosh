@@ -21,6 +21,7 @@ Lenovo Ideapad s340 Ryzentosh with opencore.
     <li>Booting it up with GenericUSBXHCI</li>
     <li>Battery readouts with SMCBatteryManager</li>
     <li>Brightness keys with BrightnessKeys</li>
+    <li>WiFi with AirportItlwm</li>
 </details>
 <details>
 <summary>What's not working:</summary>
@@ -41,3 +42,4 @@ You need to use one of three SMBIOS listed in NootedRed guide, I use Macbook Pro
 - [RehabMan](https://github.com/RehabMan/OS-X-Null-Ethernet) for NullEthernet kext
 - [CorpNewt](https://github.com/corpnewt) for SSDTTime, GenSMBIOS, gibmacOS, MountEFI and ProperTree
 - [RattletraPM](https://github.com/RattletraPM/GUX-RyzenXHCIFix) for GenericUSBXHCI.kext which fixed booting, without it the laptop would boot once a time
+- [OpenIntelWireless](https://github.com/OpenIntelWireless)https://github.com/OpenIntelWireless) for intel wifi kexts
