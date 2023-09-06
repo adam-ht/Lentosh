@@ -6,7 +6,7 @@ Lenovo Ideapad s340 Ryzentosh with opencore.
 | GPU | AMD Radeon Vega 8 2GB allocated |
 | RAM | 20GB(4GB soldered + 16GB sodimm) |
 | Audio chipset | ALC257 |
-| WiFi | Qualcom QCA9377 |
+| WiFi | Intel 3165NGW |
 | Ethernet | ASIX AX88179 USB |
 # Versions
 - Working versions (tested): MacOS Monterey (12), MacOS Ventura (13)
@@ -27,7 +27,6 @@ Lenovo Ideapad s340 Ryzentosh with opencore.
 <summary>What's not working:</summary>
   <li>Touchpad</li>
   <li>Card reader (I don't need it now so I will fix it later)</li>
-  <li>WiFi and Bluetooth (I'm gonna change this wifi card for some intel card)</li>
 </details>
 You need to use one of three SMBIOS listed in NootedRed guide, I use Macbook Pro 16,3 SMBIOS, but feel free to experiment
 
