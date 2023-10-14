@@ -30,7 +30,7 @@ Lenovo Ideapad s340 Ryzentosh with opencore.
 </details>
 You need to use one of three SMBIOS listed in NootedRed guide, I use Macbook Pro 16,3 SMBIOS, but feel free to experiment
 
-## Guys this EFI may not work for all of you so take it as a help for your setup
+:warning **Guys this EFI may not work for all of you so take it as a help for your setup**:
 
 # Credits
 - [Acidanthera](https://github.com/acidanthera) for OpenCore package and many of needed kexts
